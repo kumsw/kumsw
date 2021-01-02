@@ -1,4 +1,4 @@
-### Hi there, I'm Kunmi  👋
+### Hi there, I'm Kunmi
 
 I'm a Software Developer currently training at the [School Of Code](https://www.schoolofcode.co.uk/ "School Of Code Homepage").
 
