@@ -7,7 +7,7 @@ A little about me..
 * Post uni: I led digital marketing at a clean energy start-up. 
 * Now i'm taking a leap into tech at the School of Code Bootcamp. 
 
-🔭 I’m currently working on my final group project. My team have 4 weeks to creating an application that improves remote teaching delivery!<br/>
+🔭 I’m currently working on: My final group project! My team have 4 weeks to create an application that improves remote teaching delivery. <br/>
 📫 How to reach me: via [Twitter](https://twitter.com/kunmicodes) / [LinkedIn](https://www.linkedin.com/in/kunmi-williams/).<br/>
 😄 Pronouns: She/her. 
 
