@@ -7,16 +7,17 @@ A little about me..
 * Post uni: I led digital marketing at a clean energy start-up. 
 * Now i'm taking a leap into tech at the School of Code Bootcamp. 
 
-🔭  I’m currently working on:<br/> 
-- My final group project! My team have 4 weeks to create an application that improves remote teaching delivery. <br/>
-🌱  I’m currently learning:<br/> 
-- React Testing Library
-- Web Speech API 
+🔭  I’m currently working on:<br/>
+      - My final group project! My team have 4 weeks to create an application that improves remote teaching delivery.<br/>
+      
+🌱  I’m currently learning: <br/> 
+      - React Testing Library <br/>
+      - Web Speech API<br/>
 
 🤔 I’m looking for help with:<br/> 
-- How to build a translation application - I'm Nigerian 🇳🇬 but unfortunately. I can't speak my mother tounge, a dream goal of mine is to build a Yoruba to English translation app. 
+      - How to build a translation application - I'm Nigerian 🇳🇬  but unfortunately. I can't speak my mother tounge, a dream goal of mine is to build a Yoruba to    English translation app. 
 
-📫  You can find me on: [LinkedIn](https://www.linkedin.com/in/kunmi-williams/) <br/>
+📫  You can find me on: [LinkedIn](https://www.linkedin.com/in/kunmi-williams/) / [DEV](https://dev.to/kunmicodes) <br/>
 😄  Pronouns: She/her
 
 <!--
