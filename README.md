@@ -14,10 +14,7 @@ A little about me..
 🌱  I’m currently learning: <br/> 
       - TypeScript <br/>
       - React Testing Library <br/>
-      - [Postman](https://www.postman.com/company/student-program/) Student Expert course <br/>
-
-🤔 I’m looking for help with:<br/> 
-      - How to build a translation application - I'm Nigerian 🇳🇬  but unfortunately. I can't speak my mother tounge, a dream goal of mine is to build a Yoruba to    English translation app. 
+      - [Postman](https://www.postman.com/company/student-program/) Student Expert course <br/> 
 
 📫  You can find me on: [LinkedIn](https://www.linkedin.com/in/kunmi-williams/) / [DEV](https://dev.to/kunmicodes) <br/>
 😄  Pronouns: She/her
