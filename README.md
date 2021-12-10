@@ -4,7 +4,7 @@ I'm a full stack Software Engineer with a passion for building products for peop
 
 A little about me..
 * I first wrote code at university. Where I used R Studio for data visualisation of CO2 emissions.
-* Post uni: I stayed within the tech industry and I led digital marketing at a clean energy start-up. 
+* Post uni: I led digital marketing at a clean energy start-up. 
 * In the middle of the pandemic, I took the leap into tech with the [School Of Code](https://www.schoolofcode.co.uk/ "School Of Code Homepage") 16 week Bootcamp.
 * In March 2021 I landed my first role as a Software Engineer. 
 
