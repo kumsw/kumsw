@@ -1,5 +1,5 @@
 ### Hi there, I'm Kunmi
-
+- - -
 I'm a full stack Software Engineer with a passion for building products for people. 
 
 A little about me..
@@ -18,7 +18,7 @@ A little about me..
 <!--       - React Testing Library <br/> -->
 <!--       - [Postman](https://www.postman.com/company/student-program/) Student Expert course <br/>  -->
 
-📫  You can find me on: [LinkedIn](https://www.linkedin.com/in/kunmi-williams/) / [Medium](https://kumswilliams.medium.com/) 
+📫  You can find me on: [LinkedIn](https://www.linkedin.com/in/kunmi-williams/) / [Medium](https://kumswilliams.medium.com/) <br/>
 😄  Pronouns: She/her
 
 <!--
