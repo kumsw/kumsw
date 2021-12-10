@@ -1,22 +1,24 @@
 ### Hi there, I'm Kunmi
 
-I'm a full stack Software Developer who has recently graduated from a 16 week full time, intensive programming bootcamp at the [School Of Code](https://www.schoolofcode.co.uk/ "School Of Code Homepage").
+I'm a full stack Software Engineer with a passion for building products for people. 
 
 A little about me..
-* I first used code for data visualisation of CO2 emissions at university.
-* Post uni: I led digital marketing at a clean energy start-up. 
-* Now i'm taking a leap into tech at the School of Code Bootcamp. 
+* I first wrote code at university. Where I used R Studio for data visualisation of CO2 emissions.
+* Post uni: I stayed within the tech industry and I led digital marketing at a clean energy start-up. 
+* In the middle of the pandemic, I took the leap into tech with the [School Of Code](https://www.schoolofcode.co.uk/ "School Of Code Homepage") 16 week Bootcamp.
+* In March 2021 I landed my first role as a Software Engineer. 
 
-🔭  I’m currently working on:<br/>
+<!-- 🔭  I’m currently working on:<br/>
       - Working in a team of 4 developers to build a full stack application using TypeScript, React, Firebase. We are building a platform to engorage women to exercise together. <br/> 
-      - Building my portfolio website which I wireframed using Figma. You can see my plans [here](https://www.figma.com/file/JSJGnzIgccCPZrK4tx9Iws/Portfolio-Website?node-id=0%3A1)
+      - Building my portfolio website which I wireframed using Figma. You can see my plans [here](https://www.figma.com/file/JSJGnzIgccCPZrK4tx9Iws/Portfolio-Website?node-id=0%3A1) -->
       
 🌱  I’m currently learning: <br/> 
       - TypeScript <br/>
-      - React Testing Library <br/>
-      - [Postman](https://www.postman.com/company/student-program/) Student Expert course <br/> 
+      - Angular Framework <br/> 
+<!--       - React Testing Library <br/> -->
+<!--       - [Postman](https://www.postman.com/company/student-program/) Student Expert course <br/>  -->
 
-📫  You can find me on: [LinkedIn](https://www.linkedin.com/in/kunmi-williams/) / [DEV](https://dev.to/kunmicodes) <br/>
+📫  You can find me on: [LinkedIn](https://www.linkedin.com/in/kunmi-williams/) / [Medium](https://kumswilliams.medium.com/) 
 😄  Pronouns: She/her
 
 <!--
